@@ -1,4 +1,4 @@
-Proyecto-1-Lenguajes de Programacion
+Proyecto-Final-Lenguajes de Programacion
 
 Proyecto relizado por Andres Suarez y Samuel Alarcon
 
